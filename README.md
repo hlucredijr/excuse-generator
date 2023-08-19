@@ -9,10 +9,20 @@
 We got you covered!
 
 ## Features
-This fantastic piece of tool can generate up to 3375 different excuse combinations!
+This fantastic piece of tool can generate up to 3375 different excuse combinations! 
 
 Running on:
 - Just python (3.10.4) for now
+
+### Examples:
+Look, this is not an excuse, however Anakin Skywalker posted my nudes online.       
+This looks like a conspiracy to withdraw, except that a bat in a soup stole my toilet cover.        
+Oh my god, I have an emergency a bat in a soup might be my dead by now.     
+Sorry, I cannot be present, the kid from Kinder just got into flames due to spontaneous combustion.         
+I'm afraid I forgot that  Elon Musk hired me to create the Xvideos.     
+
+## How to use
+run it
 
 ## Plan
 
@@ -22,9 +32,6 @@ Running on:
 - Include autocopy to clipboard (for easy reply on msteams)
 - ???
 - Profit
-
-## How to use
-run it
 
 ## Documentation
 See our high quality fault proof [process](https://gist.github.com/banaslee/4147370)
